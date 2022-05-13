@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Author: mrueda
-dir=vcf
 beacon=/pro/beacon/beacon
+dir=vcf
 set -euo pipefail
 cd $dir
 #rename 's/vcf/.g.vcf/'
