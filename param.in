@@ -1,6 +1,6 @@
 ---
 genome: hs37
-bff2html: on
+bff2html: off
 center: CNAG
 datasetid: RD-Connect_synthetic_cohort
 projectdir: rd_connect
